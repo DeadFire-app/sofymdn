@@ -1,0 +1,17 @@
+[
+  {
+    "imagen": "https://images.unsplash.com/photo-1520975922203-6a27b59b06c3?q=80&w=800&auto=format&fit=crop",
+    "descripcion": "Remera básica de algodón rosa, talle S-M",
+    "tags": ["remera", "algodón", "rosa", "básica"]
+  },
+  {
+    "imagen": "https://images.unsplash.com/photo-1519741491150-9f6736f6b4cc?q=80&w=800&auto=format&fit=crop",
+    "descripcion": "Zapatillas urbanas negras, suela liviana",
+    "tags": ["zapatillas", "negras", "urbanas"]
+  },
+  {
+    "imagen": "https://images.unsplash.com/photo-1545194826-3c96b7ab31d3?q=80&w=800&auto=format&fit=crop",
+    "descripcion": "Campera ligera rosa y negro",
+    "tags": ["campera", "ligera", "rosa", "negro"]
+  }
+]
